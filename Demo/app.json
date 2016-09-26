@@ -1,8 +1,0 @@
-{
-  "name": "ChongShengZhiWoShiDaFaShi",
-  "description": "LaiGanSiBaBaa",
-  "repository": "https://github.com/hanxuetao/largehome",
-  "logo": "https://mlab.com/company/brand/resources/mLab-logo-onlight.png",
-  "keywords": ["node", "express", "angular", "MEAN", "mongodb", "REST", "API"],
-  "addons": ["mongolab"]
-}
